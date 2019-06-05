@@ -15,3 +15,4 @@ HTC, OnePlus, Essential, Asus, Nokia/HMD Global, Google (lens, dialer, launcher,
 [Module XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/module-xmlpak-install-vendor-apps-t3701604 "Module official XDA thread")
 
 [Latest stable Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+

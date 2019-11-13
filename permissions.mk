@@ -20,7 +20,7 @@ PRODUCT_COPY_FILES += \
 # Asus Permissions
 PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/oem-permissions/asus/asus.software.marketapp.xml:system/etc/permissions/asus.software.marketapp.xml \
-        $(LOCAL_PATH)/oem-permissions/asus/asus.software.zenui.xml:system/etc/permissions/asus.software.zenui.xml
+    $(LOCAL_PATH)/oem-permissions/asus/asus.software.zenui.xml:system/etc/permissions/asus.software.zenui.xml
 
 # Blackberry Permissions
 PRODUCT_COPY_FILES += \
@@ -39,7 +39,7 @@ PRODUCT_COPY_FILES += \
 # Cyanogen Permissions
 PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/oem-permissions/cyanogen/com.cyngn.crispybacon.xml:system/etc/permissions/com.cyngn.crispybacon.xml \
-        $(LOCAL_PATH)/oem-permissions/cyanogen/com.cyngn.updater.xml:system/etc/permissions/com.cyngn.updater.xml
+    $(LOCAL_PATH)/oem-permissions/cyanogen/com.cyngn.updater.xml:system/etc/permissions/com.cyngn.updater.xml
 
 # Essential Phone Permissions
 PRODUCT_COPY_FILES += \
@@ -60,7 +60,8 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/oem-permissions/google/pixel_2019_midyear_exclusive.xml:system/etc/permissions/pixel_2019_midyear_exclusive.xml \
 	$(LOCAL_PATH)/oem-permissions/google/pixel_experience_2019_midyear.xml:system/etc/permissions/pixel_experience_2019_midyear.xml \
 	$(LOCAL_PATH)/oem-permissions/google/pixel_experience_2018.xml:system/etc/permissions/pixel_experience_2018.xml \
-        $(LOCAL_PATH)/oem-permissions/google/pixel_experience_2017.xml:system/etc/permissions/pixel_experience_2017 \
+    $(LOCAL_PATH)/oem-permissions/google/pixel_experience_2017.xml:system/etc/permissions/pixel_experience_2017.xml \
+	$(LOCAL_PATH)/oem-permissions/google/pixel4_template.xml:system/etc/permissions/pixel4_template.xml \
 	$(LOCAL_PATH)/oem-permissions/google/nexus.xml:system/etc/permissions/nexus.xml \
 	$(LOCAL_PATH)/oem-permissions/google/google_build.xml:system/etc/permissions/google_build.xml \
 	$(LOCAL_PATH)/oem-permissions/google/com.google.android.dialer.support.xml:system/etc/permissions/com.google.android.dialer.support.xml
